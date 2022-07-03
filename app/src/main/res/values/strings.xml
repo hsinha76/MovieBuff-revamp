@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Buff</string>
+
+    <string name="title_activity_movie_deatils">ScrollingActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="title_watchlist">Watchlist</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+
+</resources>

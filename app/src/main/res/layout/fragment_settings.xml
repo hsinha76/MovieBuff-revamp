@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgcolor"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    tools:context="ui.settings.SettingsFragment">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="8dp"
+        android:backgroundTint="@color/purple_200"
+        android:paddingHorizontal="25dp"
+        android:paddingVertical="5dp"
+        android:text="DUMMY BTN 1"
+        android:textColor="@color/white" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="8dp"
+        android:backgroundTint="@color/purple_200"
+        android:paddingHorizontal="25dp"
+        android:paddingVertical="5dp"
+        android:text="DUMMY BTN 2"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="8dp"
+        android:backgroundTint="@color/purple_200"
+        android:paddingHorizontal="25dp"
+        android:paddingVertical="5dp"
+        android:text="LOGOUT"
+        android:textColor="@color/white" />
+
+</LinearLayout>
